@@ -3,6 +3,6 @@ one photo gallery project based on react
 
 Usage
 
-  $ npm install
+    $ npm install
   
-  $ grunt serve
+    $ grunt serve
